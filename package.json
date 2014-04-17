@@ -1,0 +1,14 @@
+{
+  "name": "chemzqm-movearound",
+  "description": "Drag and drop element in multiple containers easily",
+  "version": "0.4.0",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "yields-indexof": "git://github.com/npmcomponent/yields-indexof.git"
+  },
+  "license": "MIT"
+}

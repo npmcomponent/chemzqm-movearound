@@ -2,10 +2,10 @@
  * dependencies
  */
 
-var emitter = require('emitter')
-  , classes = require('classes')
-  , events = require('events')
-  , indexof = require('indexof');
+var emitter = require('component-emitter')
+  , classes = require('component-classes')
+  , events = require('component-events')
+  , indexof = require('yields-indexof');
 
 /**
  * export `Movearound`
